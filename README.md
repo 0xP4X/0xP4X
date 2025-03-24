@@ -3,7 +3,7 @@
 ![Welcome Banner](https://user-images.githubusercontent.com/your-image/banner.png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7B93E&width=435&lines=Welcome+to+my+world+of+code+and+security!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1500&color=F7B93E&width=435&lines=Welcome+to+my+world+of+code+and+security!" alt="Typing SVG" />
 </p>
 
 ## 📌 About Me
