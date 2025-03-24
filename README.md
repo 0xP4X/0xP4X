@@ -1,13 +1,13 @@
-# 👑 PrinceOfOri
+# 👑 Prince Ofori
 
 ![Welcome Banner](https://user-images.githubusercontent.com/your-image/banner.png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1500&color=F7B93E&width=435&lines=Welcome+to+my+world+of+code+and+security!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=F7B93E&width=435&lines=Welcome+to+my+world+of+code+and+security!" alt="Typing SVG" />
 </p>
 
 ## 📌 About Me
-Hey there! I'm **PrinceOfOri**, a dedicated **backend developer, cybersecurity enthusiast, and ethical hacker** who thrives on solving complex problems, building scalable systems, and securing the digital world. I have a deep love for technology, automation, and crafting efficient solutions to solve real-world problems.
+Hey there! I'm **Prince Ofori**, a dedicated **backend developer, cybersecurity enthusiast, and ethical hacker** who thrives on solving complex problems, building scalable systems, and securing the digital world. I have a deep love for technology, automation, and crafting efficient solutions to solve real-world problems.
 
 🎓 **Education & Background:**
    - 🎓 **Studying Computer Science**, with a strong interest in **Economics**
