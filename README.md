@@ -40,13 +40,13 @@ Penetration Testing | Network Security | Secure Coding
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=astra-incognito&theme=radical"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=astra-incognito&show_icons=true&theme=radical"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astra-incognito&layout=compact&theme=radical"/>
 </p>
 
 ## 📫 Let's Connect!
