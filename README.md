@@ -1,43 +1,61 @@
-🁑 Prince Ofori
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=F7B93E&width=435&lines=Welcome+to+my+world+of+code+and+security!" alt="Typing SVG" /> </p>
-📌 About Me
+# 🁑 Prince Ofori
 
-Hi! I’m Prince Ofori, a Computer Science student at KNUST and a backend development enthusiast currently learning through the ALX Software Engineering Program. I’m passionate about backend systems, security, and solving real-world problems through technology.
+![Welcome Banner](https://user-images.githubusercontent.com/your-image/banner.png)
 
-I’m currently on a 6-month growth challenge, actively building projects, engaging in the ALX community, and expanding my knowledge in cybersecurity and backend development. I'm also open to internship opportunities to gain hands-on experience and shape my career path.
-🎓 Education & Courses
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=F7B93E&width=435&lines=Welcome+to+my+world+of+code+and+security!" alt="Typing SVG" />
+</p>
 
-    BSc Computer Science – KNUST
+## 📌 About Me
+Hi! I'm **Prince Ofori**, a Computer Science student at KNUST and a backend development enthusiast currently enrolled in the ALX Software Engineering Program.
 
-    ALX Professional Foundations (April 2025)
+I'm passionate about building backend systems, exploring new technologies, and progressing towards a career in cybersecurity. My journey emphasizes consistency, hands-on learning, and real-world problem-solving. I'm also seeking internship opportunities to strengthen my career path.
 
-    Python & Java Programming – Udemy
+## 💻 Languages & Technologies
 
-    Intro to C++ and fundamental programming concepts
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=postgresql&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 
-💻 Languages & Tools
+**Frameworks & Tools:**  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-Languages:
-Python JavaScript SQL Java
+**Cybersecurity Interests:**  
+Penetration Testing | Network Security | Secure Coding
 
-Frameworks & Tools:
-Django Node.js PostgreSQL MySQL
+## 🚀 Featured Projects
 
-Cybersecurity Interests:
-Penetration Testing | Network Security | Ethical Hacking | Secure Backend Development
-🚀 Projects
+### 🌐 princeofori.info – [📚 Visit Website](https://princeofori.info)
+> My personal website showcasing projects, experiments, and insights.
 
-    AutoPoster
-    Automates Telegram-to-Facebook posting with watermarking – built with Python and Facebook Graph API.
+## 🚀 In progress
+### 📢 AutoPoster – [📂 View Repo](https://github.com/your-username/auto-poster)
+> A tool that automates posting from Telegram to Facebook with watermark support. Built using Python and Facebook Graph API.
 
-    Personal Portfolio
-    My digital space showcasing projects, blogs, and progress.
 
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" /> <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" /> </p>
-🔗 Connect With Me
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical"/>
+</p>
 
-Website
-LinkedIn
-Twitter
-<p align="center"><strong>Keep learning. Stay consistent. Build with purpose.</strong></p>
+## 📫 Let's Connect!
+
+[![Website](https://img.shields.io/badge/Website-princeofori.info-blue?style=flat&logo=google-chrome)](https://princeofori.info)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/clayisb1)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-ofori-40a1062aa/)  
+[![Email](https://img.shields.io/badge/Email-contact%40princeofori.info-red?style=flat&logo=gmail&logoColor=white)](mailto:princeofori1470@gmail.com)
+
+---
+
+<p align="center">🔥 <strong>Keep learning. Stay consistent. Build with purpose.</strong> 🔥</p>
