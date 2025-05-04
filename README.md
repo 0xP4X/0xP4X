@@ -3,7 +3,7 @@
 ![Welcome Banner](https://github.com/astra-incognito/astra-incognito/blob/c60c18fedcb1292efd9f100eb76d45de2045d865/banner.png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=F7B93E&width=435&lines=Welcome+to+my+world+of+code+&+security!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=F7B93E&width=600&lines=Welcome+to+my+world+of+code+and+security!" alt="Typing SVG" />
 </p>
 
 ## 📌 About Me
