@@ -39,14 +39,15 @@ Penetration Testing | Network Security | Secure Coding
 
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=astra-incognito&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=astra-incognito&theme=radical" alt="GitHub Streak Stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=astra-incognito&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=astra-incognito&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astra-incognito&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astra-incognito&layout=compact&theme=radical&langs_count=8&hide=html,css" alt="Top Languages"/>
 </p>
 
 ## 📫 Let's Connect!
