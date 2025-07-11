@@ -1,6 +1,6 @@
 # 🁑 Prince Ofori
 
-![Welcome Banner](https://github.com/astra-incognito/astra-incognito/blob/c60c18fedcb1292efd9f100eb76d45de2045d865/banner.png)
+![Welcome Banner](https://github.com/astra-incognito/0xp4x/blob/c60c18fedcb1292efd9f100eb76d45de2045d865/banner.png)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=F7B93E&width=600&lines=Welcome+to+my+world+of+code+and+security!" alt="Typing SVG" />
@@ -42,17 +42,17 @@ Penetration Testing | Network Security | Secure Coding
 
 <p align="center">
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=astra-incognito&theme=radical&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xp4x&theme=radical&hide_border=false" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
   <!-- Main Stats (with private contributions) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=astra-incognito&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=false" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=0xp4x&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=false" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
   <!-- Top Languages (may still not show due to private repos) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astra-incognito&layout=compact&theme=radical&langs_count=6&hide_border=false" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xp4x&layout=compact&theme=radical&langs_count=6&hide_border=false" alt="Top Languages"/>
 </p>
 
 ## 📫 Let's Connect!
