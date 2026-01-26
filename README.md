@@ -53,7 +53,7 @@ I believe in **hands-on learning**, real projects, and solving **practical secur
 
 ---
 
-### 🛠 **PentraX**
+### 🛠 **Pentrax** — [🌐 Check repo](https://github.com/0xP4X/pentra-x.git)
 > A **Linux-based penetration testing tool** designed to assist security testing, automation, and reconnaissance tasks.
 
 **Category:** Cybersecurity / Pentesting  
