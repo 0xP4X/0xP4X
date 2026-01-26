@@ -1,6 +1,6 @@
 # 🁑 Prince Ofori
 
-![Welcome Banner](https://github.com/0xP4X/0xP4X/blob/main/banner.png)
+![Welcome Banner](https://raw.githubusercontent.com/0xP4X/0xP4X/main/banner1.png)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=F7B93E&width=650&lines=Cybersecurity+%7C+Pentesting+%7C+Backend+Engineering;Building+Security-Focused+Tools+and+Platforms" alt="Typing SVG" />
