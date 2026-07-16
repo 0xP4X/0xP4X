@@ -43,7 +43,7 @@ I believe in **hands-on learning**, building highly capable open-source tools, a
 
 ## 🚀 Featured Projects
 
-### 🐉 **DrogonClaw** — [🌐 View Repository](https://github.com/0xP4X/drogonclaw)
+### 🐉 **DrogonClaw** — [🌐 See more](https://www.drogonclaw.xyz/)
 > An **autonomous, AI-powered offensive security framework**. DrogonClaw uses an unrestricted ReAct engine to dynamically chain reconnaissance, exploitation, and post-exploitation workflows within isolated, ephemeral Docker sandboxes.
 > 
 **Tech Stack:** TypeScript, Node.js, LangChain, Docker, Vite  
