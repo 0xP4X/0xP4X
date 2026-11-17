@@ -45,14 +45,38 @@ I'm a **Computer Science student at KNUST** and a dedicated **cybersecurity rese
 
 </div>
 
-**Cybersecurity & AI focus**
+<div align="center">
 
-| 🎯 Area | 🔧 What I do |
-| :-- | :-- |
-| **Autonomous Red Teaming** | LLM orchestration and ReAct-style agents |
-| **Penetration Testing** | Network and web application assessments |
-| **Secure Backend Architecture** | SQLite, OpSec cleanup registries |
-| **Sandboxed Execution** | Ephemeral Docker sandboxes for exploit execution |
+**Cybersecurity & AI Focus**
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="center" width="40%">🎯 Area</th>
+      <th align="center" width="60%">🔧 What I Do</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><b>Autonomous Red Teaming</b></td>
+      <td align="center">LLM orchestration and ReAct-style agents</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Penetration Testing</b></td>
+      <td align="center">Network and web application assessments</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Secure Backend Architecture</b></td>
+      <td align="center">SQLite, OpSec cleanup registries</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Sandboxed Execution</b></td>
+      <td align="center">Ephemeral Docker sandboxes for exploit execution</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
 
 ---
 
