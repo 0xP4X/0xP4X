@@ -1,89 +1,129 @@
-# 🁑 Prince Ofori
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=F7B93E&width=650&lines=Cybersecurity+%7C+Pentesting+%7C+Backend+Engineering;Building+Autonomous+Security-Focused+Platforms" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Prince%20Ofori&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Cybersecurity%20%E2%80%A2%20Pentesting%20%E2%80%A2%20Backend%20Engineering&descSize=20&descAlignY=60" alt="Header" width="100%"/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1500&color=F7B93E&center=true&vCenter=true&width=700&lines=Building+autonomous+security-focused+platforms;AI-driven+offensive+security+frameworks;Break+ethically.+Secure+relentlessly." alt="Typing SVG" />
 
-## 📌 About Me
+<br/>
 
-Hi, I’m **Prince Ofori**, a **Computer Science student at KNUST** and a dedicated **cybersecurity researcher and penetration tester**.
+![Profile Views](https://komarev.com/ghpvc/?username=0xp4x&style=for-the-badge&color=F7B93E&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/0xp4x?style=for-the-badge&logo=github&color=1f2937)
+![Location](https://img.shields.io/badge/KNUST-Ghana-F7B93E?style=for-the-badge&logo=googlemaps&logoColor=black)
 
-My primary focus is on:
-- Architecting **AI-driven offensive security frameworks**
-- Developing automated **pentesting and reconnaissance tools**
-- Understanding how real-world systems fail — and engineering robust solutions to secure them.
-
-I believe in **hands-on learning**, building highly capable open-source tools, and solving **practical security problems** rather than just studying theory.
+</div>
 
 ---
 
-## 💻 Languages & Technologies
+## 👨‍💻 About Me
 
-### **Programming Languages**
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+```text
+$ whoami
+prince_ofori — CS student @ KNUST | cybersecurity researcher | penetration tester
+```
 
-### **Frameworks & Infrastructure**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+I'm a **Computer Science student at KNUST** and a dedicated **cybersecurity researcher and penetration tester**. I learn by building: I'd rather ship a tool that solves a real security problem than just study theory.
 
-### **Cybersecurity & AI Focus**
-- Autonomous Red Teaming & LLM Orchestration
-- Network & Web Application Penetration Testing  
-- Secure Backend Architecture (SQLite, OpSec Cleanup Registries)
-- Sandboxed Exploit Execution  
+**What I'm focused on**
+
+- 🤖 Architecting **AI-driven offensive security frameworks**
+- 🔍 Building automated **pentesting and reconnaissance tools**
+- 🧱 Understanding how real-world systems fail, then engineering robust ways to secure them
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=ts,js,py,bash,mysql&theme=dark" alt="Languages"/>
+
+**Frameworks & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=nodejs,react,vite,docker,linux,git&theme=dark" alt="Frameworks"/>
+
+</div>
+
+**Cybersecurity & AI focus**
+
+| 🎯 Area | 🔧 What I do |
+| :-- | :-- |
+| **Autonomous Red Teaming** | LLM orchestration and ReAct-style agents |
+| **Penetration Testing** | Network and web application assessments |
+| **Secure Backend Architecture** | SQLite, OpSec cleanup registries |
+| **Sandboxed Execution** | Ephemeral Docker sandboxes for exploit execution |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🐉 **DrogonClaw** — [🌐 See more](https://www.drogonclaw.xyz/)
-> An **autonomous, AI-powered offensive security framework**. DrogonClaw uses an unrestricted ReAct engine to dynamically chain reconnaissance, exploitation, and post-exploitation workflows within isolated, ephemeral Docker sandboxes.
-> 
-**Tech Stack:** TypeScript, Node.js, LangChain, Docker, Vite  
-**Focus:** AI/LLM Orchestration, Sandboxing, Full-Chain Exploitation
-
----
-
-### 🛠 **Pentrax** — [🌐 View Repository](https://github.com/0xP4X/pentra-x.git)
-> A **Linux-based penetration testing tool** designed to assist in security testing, vulnerability automation, and reconnaissance tasks.
-> 
-**Category:** Cybersecurity / Pentesting  
-**Platform:** Linux  
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐉 DrogonClaw</h3>
+      <p>An <b>autonomous, AI-powered offensive security framework</b>. It uses an unrestricted ReAct engine to dynamically chain reconnaissance, exploitation, and post-exploitation workflows inside isolated, ephemeral Docker sandboxes.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+      </p>
+      <p><b>Focus:</b> AI/LLM orchestration, sandboxing, full-chain exploitation</p>
+      <a href="https://www.drogonclaw.xyz/"><img src="https://img.shields.io/badge/🌐_Visit_Website-F7B93E?style=for-the-badge&labelColor=1f2937"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛠️ Pentrax</h3>
+      <p>A <b>Linux-based penetration testing tool</b> built to assist with security testing, vulnerability automation, and reconnaissance tasks.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Pentesting-red?style=flat-square&logo=hackthebox&logoColor=white"/>
+      </p>
+      <p><b>Category:</b> Cybersecurity / Pentesting<br/><b>Platform:</b> Linux</p>
+      <a href="https://github.com/0xP4X/pentra-x"><img src="https://img.shields.io/badge/📂_View_Repository-181717?style=for-the-badge&logo=github"/></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xp4x&theme=radical&hide_border=false" alt="GitHub Streak"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xp4x&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=false" alt="GitHub Stats"/>
-</p>
+<a href="https://github.com/0xp4x">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=0xp4x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/0xp4x">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xp4x&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0D1117" alt="Top Languages"/>
+</a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xp4x&layout=compact&theme=radical&langs_count=6&hide_border=false" alt="Top Languages"/>
-</p>
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=0xp4x&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xp4x&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" alt="Contribution Graph" width="100%"/>
+
+</div>
 
 ---
 
 ## 📫 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0xP4X-blue?style=flat&logo=google-chrome)](https://0xp4x.github.io/princeofori)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/clayisb1)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-ofori-40a1062aa/)  
-[![Email](https://img.shields.io/badge/Email-princeofori1470%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:princeofori1470@gmail.com)
+<div align="center">
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-0xP4X-F7B93E?style=for-the-badge&logo=googlechrome&logoColor=black)](https://0xp4x.github.io/princeofori)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/clayisb1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-ofori-40a1062aa/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:princeofori1470@gmail.com)
 
-<p align="center">
-  <strong>Build responsibly. Break ethically. Secure relentlessly.</strong>
-</p>
+<br/>
+
+**Build responsibly. Break ethically. Secure relentlessly.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="Footer" width="100%"/>
+
+</div>
