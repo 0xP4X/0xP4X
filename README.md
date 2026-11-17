@@ -6,8 +6,8 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=0xp4x&style=for-the-badge&color=F7B93E&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/0xp4x?style=for-the-badge&logo=github&color=1f2937)
+![Profile Views](https://komarev.com/ghpvc/?username=0xP4X&style=for-the-badge&color=F7B93E&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/0xP4X?style=for-the-badge&logo=github&color=1f2937)
 ![Location](https://img.shields.io/badge/KNUST-Ghana-F7B93E?style=for-the-badge&logo=googlemaps&logoColor=black)
 
 </div>
@@ -92,20 +92,17 @@ I'm a **Computer Science student at KNUST** and a dedicated **cybersecurity rese
 
 <div align="center">
 
-<a href="https://github.com/0xp4x">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=0xp4x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/0xp4x">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xp4x&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0D1117" alt="Top Languages"/>
-</a>
+<img src="https://img.shields.io/github/followers/0xP4X?style=for-the-badge&logo=github&color=F7B93E&labelColor=0D1117" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/0xP4X/pentra-x?style=for-the-badge&logo=github&color=F7B93E&labelColor=0D1117&label=Pentrax+Stars" alt="Pentrax Stars"/>
+<img src="https://img.shields.io/github/last-commit/0xP4X/pentra-x?style=for-the-badge&logo=git&color=F7B93E&labelColor=0D1117&label=Last+Commit" alt="Last Commit"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=0xP4X&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=0xp4x&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xp4x&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" alt="Contribution Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xP4X&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" alt="Contribution Graph" width="100%"/>
 
 </div>
 
