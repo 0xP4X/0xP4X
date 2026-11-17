@@ -92,11 +92,14 @@ I'm a **Computer Science student at KNUST** and a dedicated **cybersecurity rese
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/0xP4X?style=for-the-badge&logo=github&color=F7B93E&labelColor=0D1117" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/0xP4X/pentra-x?style=for-the-badge&logo=github&color=F7B93E&labelColor=0D1117&label=Pentrax+Stars" alt="Pentrax Stars"/>
-<img src="https://img.shields.io/github/last-commit/0xP4X/pentra-x?style=for-the-badge&logo=git&color=F7B93E&labelColor=0D1117&label=Last+Commit" alt="Last Commit"/>
+<a href="https://github.com/0xP4X">
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=0xP4X&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/0xP4X">
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=0xP4X&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0D1117" alt="Top Languages"/>
+</a>
 
-<br/><br/>
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=0xP4X&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 
