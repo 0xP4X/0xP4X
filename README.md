@@ -14,7 +14,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 ```text
 $ whoami
@@ -25,13 +25,13 @@ I'm a **Computer Science student at KNUST** and a dedicated **cybersecurity rese
 
 **What I'm focused on**
 
-- 🤖 Architecting **AI-driven offensive security frameworks**
-- 🔍 Building automated **pentesting and reconnaissance tools**
-- 🧱 Understanding how real-world systems fail, then engineering robust ways to secure them
+- Architecting **AI-driven offensive security frameworks**
+- Building automated **pentesting and reconnaissance tools**
+- Understanding how real-world systems fail, then engineering robust ways to secure them
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -52,8 +52,8 @@ I'm a **Computer Science student at KNUST** and a dedicated **cybersecurity rese
 <table width="100%">
   <thead>
     <tr>
-      <th align="center" width="40%">🎯 Area</th>
-      <th align="center" width="60%">🔧 What I Do</th>
+      <th align="center" width="40%">Area</th>
+      <th align="center" width="60%">What I Do</th>
     </tr>
   </thead>
   <tbody>
@@ -80,12 +80,12 @@ I'm a **Computer Science student at KNUST** and a dedicated **cybersecurity rese
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🐉 DrogonClaw</h3>
+      <h3>DrogonClaw</h3>
       <p>An <b>autonomous, AI-powered offensive security framework</b>. It uses an unrestricted ReAct engine to dynamically chain reconnaissance, exploitation, and post-exploitation workflows inside isolated, ephemeral Docker sandboxes.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
@@ -95,24 +95,24 @@ I'm a **Computer Science student at KNUST** and a dedicated **cybersecurity rese
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
       </p>
       <p><b>Focus:</b> AI/LLM orchestration, sandboxing, full-chain exploitation</p>
-      <a href="https://www.drogonclaw.xyz/"><img src="https://img.shields.io/badge/🌐_Visit_Website-F7B93E?style=for-the-badge&labelColor=1f2937"/></a>
+      <a href="https://www.drogonclaw.xyz/"><img src="https://img.shields.io/badge/Visit_Website-F7B93E?style=for-the-badge&labelColor=1f2937"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🛠️ Pentrax</h3>
+      <h3>Pentrax</h3>
       <p>A <b>Linux-based penetration testing tool</b> built to assist with security testing, vulnerability automation, and reconnaissance tasks.</p>
       <p>
         <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
         <img src="https://img.shields.io/badge/Pentesting-red?style=flat-square&logo=hackthebox&logoColor=white"/>
       </p>
       <p><b>Category:</b> Cybersecurity / Pentesting<br/><b>Platform:</b> Linux</p>
-      <a href="https://github.com/0xP4X/pentra-x"><img src="https://img.shields.io/badge/📂_View_Repository-181717?style=for-the-badge&logo=github"/></a>
+      <a href="https://github.com/0xP4X/pentra-x"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/></a>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -135,7 +135,7 @@ I'm a **Computer Science student at KNUST** and a dedicated **cybersecurity rese
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
 
